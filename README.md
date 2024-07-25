@@ -1,4 +1,4 @@
-This repository contains the Computer Assignments from the "Digital Currency" course at the University of Tehran in the Spring of 2024.
+This repository contains the Computer Assignments from the "Crypto Currency" course at the University of Tehran in the Spring of 2024.
 
 ## [Assignment 1](./CA1/)
 
